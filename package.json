@@ -1,0 +1,20 @@
+{
+  "name": "edp-build-alioss",
+  "version": "1.1.0",
+  "description": "edp build for alioss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "oss",
+    "edp"
+  ],
+  "author": "mfylee@me.com",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "4.1.6",
+    "co": "4.6.0",
+    "config-file-loader": "^1.0.0"
+  }
+}
